@@ -1,0 +1,11 @@
+.idea
+.fleet
+.vscode
+checkpoint
+*.json
+*.features
+*/__pycache__
+*.csv
+*.tsv
+*.pt
+=10.1
